@@ -1,3 +1,3 @@
 # homework-horiseon-webpage
 
-line 11 /* <header class="header"> */
+changed line 11 to header to specify the header of the page
